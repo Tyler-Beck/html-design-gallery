@@ -4,9 +4,9 @@
 
 ## Browse it online
 
-<https://tyler-beck.github.io/centiform/>
+<https://tyler-beck.github.io/html-design-gallery/>
 
-Served by GitHub Pages from `main` at the site root. Every design is reachable from the rail, and each one also opens alone at `https://tyler-beck.github.io/centiform/designs/NNN-slug/index.html`.
+Served by GitHub Pages from `main` at the site root. Every design is reachable from the rail, and each one also opens alone at `https://tyler-beck.github.io/html-design-gallery/designs/NNN-slug/index.html`.
 
 ## Open it locally
 
